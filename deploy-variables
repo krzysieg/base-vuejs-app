@@ -1,0 +1,4 @@
+NETWORK_NAME="network"
+
+IMAGE_NAME="client:latest"
+CONTAINER_NAME="client"
